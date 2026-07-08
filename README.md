@@ -9,7 +9,10 @@ This project trains a neural network to predict the output of a mathematical fun
 idk
 
 ## Project structure
+<<<<<<< HEAD
 
+=======
+>>>>>>> f8b57c84ae42111516c93db92fb85f2cad1cc97b
 ```text
 .
 ├── models/
