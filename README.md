@@ -9,6 +9,8 @@ This project trains a neural network to predict the output of a mathematical fun
 idk
 
 ## Project structure
+
+```text
 .
 ├── models/
 ├── training_data/
@@ -19,6 +21,7 @@ idk
 │   └── training.py
 ├── test.py
 └── README.md
+```
 
 ## Neural network
 
